@@ -1,2 +1,3 @@
 # Invertory-management-using-JSON
-Consists of the code and related files which is used for Inventory Management project assigned in an internship  
+It Consists of all the related files and code which is used for Inventory Management project assigned in an internship from ETG.
+record and sales files are attached after performing the addition of products and purchasing of products. Complete code used for this implementation is also attached as INVERTORT MANAGEMENTUSING JSON
